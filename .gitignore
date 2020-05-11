@@ -12,10 +12,9 @@ buildNumber.properties
 .gradle
 /build/
 
-gradle-app.setting
-
-!gradle-wrapper.jar
-
 .idea/
 *.iml
 *.gitignore
+.gitignore
+.idea
+*.iml
